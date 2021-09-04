@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software applications and quick hacks.
-- 🎓 &nbsp; Gratuated from Computer Engineering and Informatics Derpartment at University of Patras with an Integrated Master's Degree.
+- 🎓 &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
 - 🎓🎓 &nbsp; Studying M.Sc. Digital Systems Security at University of Piraeus.
 - 💼 &nbsp; Working as a Java Software Engineer at Interamerican.
 - 🌱 &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
@@ -26,7 +26,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=markdown)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=rstudio)
