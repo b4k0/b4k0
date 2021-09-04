@@ -4,7 +4,7 @@
 
 - 🤔     &nbsp; Exploring new technologies and developing software applications and quick hacks.
 - 🎓     &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
-- 🎓🎓  &nbsp; Studying M.Sc. Digital Systems Security at University of Piraeus.
+- 🎓🎓   Studying M.Sc. Digital Systems Security at University of Piraeus.
 - 💼     &nbsp; Working as a Java Software Engineer at Interamerican.
 - 🌱     &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
 
