@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software applications and quick hacks.
-- 🎓 &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
-- 🎓🎓 &nbsp; Studying M.Sc. Digital Systems Security at University of Piraeus.
-- 💼 &nbsp; Working as a Java Software Engineer at Interamerican.
-- 🌱 &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
+- 🤔     &nbsp; Exploring new technologies and developing software applications and quick hacks.
+- 🎓     &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
+- 🎓🎓   &nbsp; Studying M.Sc. Digital Systems Security at University of Piraeus.
+- 💼     &nbsp; Working as a Java Software Engineer at Interamerican.
+- 🌱     &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -26,7 +26,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-33333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=rstudio)
@@ -45,10 +45,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mpak1996.github.io/myPortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ioannisbakomichalis.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://mpak1996.github.io/myPortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/Website-mpak1996.github.io/myPortfolioWebsite-blue?style=flat-square&logo=google-chrome"></a>
 <a href="www.linkedin.com/in/ioannisbakomichalis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ioannis%20Bakomichalis-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/giannis__mpak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-giannis__mpak-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:giannismpak@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-giannismpak@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:giannismpak@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-giannismpak@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
