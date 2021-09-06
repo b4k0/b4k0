@@ -29,7 +29,7 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellijidea)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
