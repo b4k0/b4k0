@@ -1,4 +1,6 @@
-<h2> Hey there 👋 ! I'm Ioannis Bakomichalis.</h2>
+<h1> Hey there 👋 ! I'm Ioannis Bakomichalis.</h1>
+
+<h2>Software Engineering and Cybersecurity</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
