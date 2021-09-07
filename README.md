@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mpak1996.github.io/myPortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/Website-mpak1996.github.io/myPortfolioWebsite-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://mpak1996.github.io/myPortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/Website-mpak1996.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="www.linkedin.com/in/ioannisbakomichalis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ioannis%20Bakomichalis-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/giannis__mpak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-giannis__mpak-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:giannismpak@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-giannismpak@outlook.com-blue?style=flat-square&logo=microsoft-outlook"></a>
