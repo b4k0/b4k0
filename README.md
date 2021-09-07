@@ -1,11 +1,11 @@
-<h2> Hey there! I'm Ioannis Bakomichalis.</h2>
+<h2> Hey there 👋 ! I'm Ioannis Bakomichalis.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔     &nbsp; Exploring new technologies and developing software applications and quick hacks.
 - 🎓     &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
 - 🎓     &nbsp;Studying M.Sc. Digital Systems Security at University of Piraeus.
-- 💼     &nbsp; Working as a Java Software Engineer at Interamerican.
+- 💼     &nbsp; Working as a Java Software Engineer.
 - 🌱     &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -44,11 +44,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://mpak1996.github.io/myPortfolioWebsite/"><img alt="Website" src="https://img.shields.io/badge/Website-mpak1996.github.io/myPortfolioWebsite-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/ioannisbakomichalis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ioannis%20Bakomichalis-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/giannis__mpak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-giannis__mpak-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:giannismpak@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-giannismpak@outlook.com-blue?style=flat-square&logo=microsoft-outlook"></a>
-</p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mpak1996)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/IoannisBakomichalis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/GiannisMpak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/giannis__mpak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mpak1996.github.io/myPortfolioWebsite/) 
