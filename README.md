@@ -1,6 +1,6 @@
 <h1> Hey there 👋 ! I'm Ioannis Bakomichalis.</h1>
 
-<h2>Software Engineering and Cybersecurity</h2>
+<h3> Software Engineering and Cybersecurity </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
