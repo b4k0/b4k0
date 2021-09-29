@@ -42,10 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mpak1996&theme=buefy&show_icons=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpak1996&layout=compact&hide=c,tcss,scss,yacc,tsql,cpp&show_icons=true"/>
 
-
-  <br/>
-  
-  <script src="https://tryhackme.com/badge/373210"></script>
+ 
   
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
