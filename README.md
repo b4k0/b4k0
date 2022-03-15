@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔     &nbsp; Exploring new technologies and developing software applications and cybersecurity solutions.
-- 🎓     &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
 - 🎓     &nbsp;Studying M.Sc. Digital Systems Security at University of Piraeus.
+- 🎓🎓   &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
 - 💼     &nbsp; Working as a Java Software Engineer.
 - 🌱     &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
 
