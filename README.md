@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
 - 💼     &nbsp; Working as a Junior Cyber Security Engineer/SOC Analyst Level 1.
 - 💻     &nbsp; Working as a Cyber Security Research Assistant.
-- 🌱     &nbsp; Learning more about Web Development, Systems Design and Cybersecurity.
+- 🌱     &nbsp; Learning more about Cybersecurity, GUI and Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
