@@ -25,7 +25,7 @@
 - 🔎    &nbsp; Exploring new technologies and developing software applications and cybersecurity solutions.
 - 🎓     &nbsp;Studying M.Sc. Digital Systems Security at University of Piraeus.
 - 👨‍🎓   &nbsp; Gratuated from Computer Engineering and Informatics Department at University of Patras with an Integrated Master's Degree.
-- 💼     &nbsp; Working as a Junior Cyber Security Engineer/SOC Analyst Level 1.
+- 💼     &nbsp; Working as a Junior Cyber Security Engineer/Analyst.
 - 💻     &nbsp; Working as a Cyber Security Research Assistant.
 - 🌱     &nbsp; Learning more about Cybersecurity, GUI and Web Development.
 
