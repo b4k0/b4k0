@@ -52,8 +52,8 @@
 
 <h3> 🔥 &nbsp; My Stats: </h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mpak1996&theme=python-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mpak1996&theme=python-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpak1996&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
