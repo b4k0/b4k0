@@ -23,8 +23,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔎    &nbsp; Exploring new technologies and developing software applications and cybersecurity solutions.
-- 🎓🎓     &nbsp;Gratuated from MSc Digital Systems Security at University of Piraeus.
-- 🎓   &nbsp; Gratuated from MEng Computer Engineering and Informatics Department at University of Patras.
+- 🎓🎓     &nbsp; MSc Digital Systems Security at University of Piraeus.
+- 🎓   &nbsp; MEng Computer Engineering and Informatics Department at University of Patras.
 - 💼     &nbsp; Working as Cyber Security Engineer/Analyst.
 - 💻     &nbsp; Working as Cyber Security Research Assistant.
 - 🌱     &nbsp; Learning more about Cybersecurity, GUI and Web Development.
