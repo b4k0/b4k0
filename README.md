@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/IoannisBakomichalis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Mpak1996" target="_blank">
+  <a href="https://github.com/b4k0" target="_blank">
     <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
-   <a href="https://mpak1996.github.io" target="_blank">
+   <a href="https://b4k0.github.io" target="_blank">
     <img src="https://img.shields.io/badge/website-yellow?logo=Website&logoColor=white&style=for-the-badge" alt="Website Badge"/>
   </a>
   <a href="mailto:giannismpak@outlook.com">
